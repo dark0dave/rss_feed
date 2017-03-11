@@ -21,7 +21,7 @@
 	<outline title='Wikipedia News' type='rss' xmlUrl='https://en.wikinews.org/w/index.php?title=Special:NewsFeed&amp;feed=atom&amp;categories=Published&amp;notcategories=No%20publish%7CArchived%7CAutoArchived%7Cdisputed&amp;namespace=0&amp;count=30&amp;hourcount=124&amp;ordermethod=categoryadd&amp;stablepages=only' retrieveFullText='true'/>
 	<outline title='Physics World' type='rss' xmlUrl='http://feeds.feedburner.com/PhysicsWorldNews' retrieveFullText='true'/>
 	<outline title='Team liquid ' type='rss' xmlUrl='http://www.teamliquid.net/rss/news.xml' retrieveFullText='true'/>
-	<outline title='Linux Distro Watch ' type='rss' xmlUrl='http://distrowatch.com/news/dw.xml' retrieveFullText='true'/>
+	<outline title='Linux Distro Watch ' type='rss' xmlUrl='https://distrowatch.com/news/dwd.xml' retrieveFullText='true'/>
 	<outline title='Pirate Party' type='rss' xmlUrl='https://www.pirateparty.org.uk/rss.xml' retrieveFullText='true'/>
 	<outline title='Reddit Netsec' type='rss' xmlUrl='https://www.reddit.com/r/netsec/.rss' retrieveFullText='true'/>
 	<outline title='New Scientist' type='rss' xmlUrl='http://feeds.newscientist.com/science-news' retrieveFullText='true'/>
