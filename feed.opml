@@ -32,7 +32,7 @@
 	<outline title='Nature' type='rss' xmlUrl='http://feeds.nature.com/nature/rss/current' retrieveFullText='true'/>
 	<outline title='Cute Dog Blog' type='rss' xmlUrl='http://itoc.cfw.me/rss/' retrieveFullText='true'/>
 	<outline title='Mullvad' type='rss' xmlUrl='https://www.mullvad.net/blog/feed/rss' retrieveFullText='true'/>
-	<outline title='Guardian Project' type='rss' xmlUrl='http://securereader.guardianproject.info/extrss' retrieveFullText='true'/>
+	<outline title='Guardian Project' type='rss' xmlUrl='https://guardianproject.info/category/news/feed/' retrieveFullText='true'/>
 	<outline title='538' type='rss' xmlUrl='http://fivethirtyeight.com/all/feed' retrieveFullText='true'/>
 	<outline title='maths u programming' type='rss' xmlUrl='https://j2kun.svbtle.com/feed' retrieveFullText='true'/>
 	<outline title='/etc/hosts file' type='rss' xmlUrl='http://someonewhocares.org/hosts/rss.xml' retrieveFullText='true'/>
