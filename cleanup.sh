@@ -1,1 +1,5 @@
-cat $1 | sed 's/></>\n</g' > feed.opml
+#!/usr/bin/env bash
+
+input_file=$1
+
+sed 's/></>\n</g' ${input_file} > feed.opml
