@@ -1,0 +1,6 @@
+image: python:slim
+
+test:
+  script:
+   - pip install opml
+   - python -c "import opml; opml.parse('backup.opml')"
