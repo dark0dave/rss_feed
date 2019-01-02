@@ -2,11 +2,21 @@
 
 ## Contains
 
-* My rss in an ompl format (https://en.wikipedia.org/wiki/OPML) in feed.opml
-* Clean up script which takes data from raw exports spare rss (fdroid app) and converts it to human readable format in feed.opml writen in bash
-* Raw format backup.opml from exports spare rss (fdroid app) ( now defunct )
+* My rss in an [ompl](https://en.wikipedia.org/wiki/OPML) format: [backup.opml](https://gitlab.com/dark0dave/rss_feed/blob/master/backup.opml)
+* Raw format backup.opml from exports [Sparss](https://f-droid.org/packages/net.etuldan.sparss.floss/) (fdroid app)
+* Test to prevent duplicates
 
 ## Notes
 
 * I suggest you ensure your rss client works over a vpn and tor for maximium privacy.
-* PR welcome :)
+* PRs welcome :)
+
+
+## Running
+
+Ensure you have [python3](https://www.python.org/downloads/release/python-372/) and [pip](https://pip.pypa.io/en/stable/installing/) installed
+ ```bash
+ pip install pipenv
+ pipenv install --three
+ pipenv run python test.py
+ ```
