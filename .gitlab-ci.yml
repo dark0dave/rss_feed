@@ -1,6 +1,6 @@
-image: python:slim
+image: python:3.7-slim
 
 test:
   script:
-   - pip install opml
-   - python -c "import opml; opml.parse('backup.opml')"
+   - pip install pipenv
+   - pipenv install --three && pipenv run python test.py
