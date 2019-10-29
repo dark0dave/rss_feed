@@ -2,7 +2,7 @@
 <opml version='1.1'>
 <head>
 <title>spaRSS export</title>
-<dateCreated>1546344769731</dateCreated>
+<dateCreated>1572388114072</dateCreated>
 </head>
 <body>
 	<outline title='Hacker News' type='rss' xmlUrl='https://news.ycombinator.com/rss' retrieveFullText='true'/>
@@ -17,7 +17,7 @@
 	<outline title='Mozilla' type='rss' xmlUrl='https://blog.mozilla.org/feed/' retrieveFullText='false'/>
 	<outline title='Reporters Without Borders' type='rss' xmlUrl='http://en.rsf.org/spip.php?page=backend&amp;lang=en' retrieveFullText='false'/>
 	<outline title='Wikipedia News' type='rss' xmlUrl='https://en.wikinews.org/w/index.php?title=Special:NewsFeed&amp;feed=atom&amp;categories=Published&amp;notcategories=No%20publish%7CArchived%7CAutoArchived%7Cdisputed&amp;namespace=0&amp;count=30&amp;hourcount=124&amp;ordermethod=categoryadd&amp;stablepages=only' retrieveFullText='false'/>
-	<outline title='Physics World' type='rss' xmlUrl='http://feeds.feedburner.com/PhysicsWorldNews' retrieveFullText='false'/>
+	<outline title='Physics World' type='rss' xmlUrl='https://iopscience.iop.org/journal/rss/1367-2630' retrieveFullText='true'/>
 	<outline title='Team liquid ' type='rss' xmlUrl='http://www.teamliquid.net/rss/news.xml' retrieveFullText='false'/>
 	<outline title='Pirate Party' type='rss' xmlUrl='https://www.pirateparty.org.uk/rss.xml' retrieveFullText='false'/>
 	<outline title='Reddit Netsec' type='rss' xmlUrl='https://www.reddit.com/r/netsec/.rss' retrieveFullText='false'/>
@@ -41,9 +41,7 @@
 	<outline title='The Tech' type='rss' xmlUrl='https://thetech.com/feed' retrieveFullText='true'/>
 	<outline title='Nasa pictue of the day' type='rss' xmlUrl='https://apod.nasa.gov/apod.rss' retrieveFullText='true'/>
 	<outline title='tympanus' type='rss' xmlUrl='http://feeds2.feedburner.com/tympanus' retrieveFullText='true'/>
-	<outline title='TeamLiquid.net News' type='rss' xmlUrl='https://www.teamliquid.net/rss/news.xml' retrieveFullText='false'/>
 	<outline title='DistroWatch.com: News' type='rss' xmlUrl='https://distrowatch.com/news/dw.xml' retrieveFullText='false'/>
-	<outline title='0day.today' type='rss' xmlUrl='https://0day.today/rss' retrieveFullText='false'/>
-	<outline title='Pollock&#39;s Hosts File' type='rss' xmlUrl='https://someonewhocares.org/hosts/rss.xml' retrieveFullText='false'/>
+	<outline title='Tor News' type='rss' xmlUrl='https://newsletter.torproject.org/rss/' retrieveFullText='true'/>
 </body>
 </opml>
