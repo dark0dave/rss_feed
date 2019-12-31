@@ -116,3 +116,7 @@ dmypy.json
 
 # Envrc file
 .envrc
+
+# Editor files
+.swp
+.vscode
