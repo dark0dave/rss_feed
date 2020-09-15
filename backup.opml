@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <opml version='1.1'>
 <head>
-<title>spaRSS export</title>
-<dateCreated>1577769540722</dateCreated>
+<title>spaRSS DecSync export</title>
+<dateCreated>1600209931616</dateCreated>
 </head>
 <body>
 	<outline title='Hacker News' type='rss' xmlUrl='https://news.ycombinator.com/rss' retrieveFullText='true'/>
@@ -22,7 +22,6 @@
 	<outline title='Pirate Party' type='rss' xmlUrl='https://www.pirateparty.org.uk/feed.xml' retrieveFullText='true'/>
 	<outline title='Reddit Netsec' type='rss' xmlUrl='https://www.reddit.com/r/netsec/.rss' retrieveFullText='true'/>
 	<outline title='EFF' type='rss' xmlUrl='https://www.eff.org/rss/updates.xml' retrieveFullText='true'/>
-	<outline title='0day' type='rss' xmlUrl='https://0day.today/rss' retrieveFullText='true'/>
 	<outline title='Aljazeera' type='rss' xmlUrl='http://america.aljazeera.com/content/ajam/articles.rss' retrieveFullText='true'/>
 	<outline title='Nature' type='rss' xmlUrl='http://feeds.nature.com/nature/rss/current' retrieveFullText='true'/>
 	<outline title='Cute Dog Blog' type='rss' xmlUrl='http://itoc.cfw.me/rss/' retrieveFullText='true'/>
@@ -46,5 +45,12 @@
 	<outline title='jvns' type='rss' xmlUrl='https://jvns.ca/atom.xml' retrieveFullText='true'/>
 	<outline title='offsensive-security' type='rss' xmlUrl='https://www.offensive-security.com/feed' retrieveFullText='true'/>
 	<outline title='Transparency' type='rss' xmlUrl='https://www.transparency.org/feed/nwsftr' retrieveFullText='true'/>
+	<outline title='lambda the ultimate' type='rss' xmlUrl='http://lambda-the-ultimate.org/rss.xml' retrieveFullText='true'/>
+	<outline title='krebs' type='rss' xmlUrl='https://krebsonsecurity.com/feed/' retrieveFullText='true'/>
+	<outline title='Jess' type='rss' xmlUrl='https://blog.jessfraz.com/index.xml' retrieveFullText='true'/>
+	<outline title='ReclaimNet' type='rss' xmlUrl='https://reclaimthenet.org/feed' retrieveFullText='true'/>
+	<outline title='Dustri' type='rss' xmlUrl='https://dustri.org/b/rss.xml' retrieveFullText='true'/>
+	<outline title='Monitor' type='rss' xmlUrl='https://rss.csmonitor.com/feeds/world' retrieveFullText='true'/>
+	<outline title='Reuters' type='rss' xmlUrl='https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com&amp;ceid=US:en&amp;hl=en-US&amp;gl=US' retrieveFullText='true'/>
 </body>
 </opml>
