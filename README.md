@@ -14,9 +14,9 @@
 
 ## Running
 
-Ensure you have [python3](https://www.python.org/downloads/release/python-372/) and [pip](https://pip.pypa.io/en/stable/installing/) installed
+Ensure you have [python3.8](https://www.python.org/downloads/release/python-381/) and [pip](https://pip.pypa.io/en/stable/installing/) installed
  ```bash
- pip install pipenv
- pipenv install --three
- pipenv run python test.py
+ pip install poetry
+ poetry install
+ poetry run python test.py
  ```
