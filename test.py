@@ -6,8 +6,7 @@ def main():
     noDuplicates(urls)
     [
         checkUrlExists(url) 
-        for url in urls 
-        if 'reddit' not in url and 'edri' not in url
+        for url in urls
     ]
 
 def noDuplicates(urls):
@@ -15,7 +14,7 @@ def noDuplicates(urls):
 
 def checkUrlExists(url):
     status = get(url).status_code
-    print(url)
+    print(f'Found: {url} with status: {status}')
     assert 200 == status
 
 if __name__ == '__main__':
