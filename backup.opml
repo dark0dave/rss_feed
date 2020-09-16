@@ -1,56 +1,50 @@
-<?xml version='1.0' encoding='utf-8'?>
-<opml version='1.1'>
-<head>
-<title>spaRSS DecSync export</title>
-<dateCreated>1600209931616</dateCreated>
-</head>
-<body>
-	<outline title='Hacker News' type='rss' xmlUrl='https://news.ycombinator.com/rss' retrieveFullText='true'/>
-	<outline title='lobste' type='rss' xmlUrl='https://lobste.rs/rss' retrieveFullText='true'/>
-	<outline title='Beta news' type='rss' xmlUrl='https://feeds.feedburner.com/bn' retrieveFullText='true'/>
-	<outline title='Torrent Freak ' type='rss' xmlUrl='https://feeds.feedburner.com/Torrentfreak' retrieveFullText='true'/>
-	<outline title='After Dawn' type='rss' xmlUrl='http://feeds.afterdawn.com/afterdawn' retrieveFullText='true'/>
-	<outline title='High Scalability' type='rss' xmlUrl='https://feeds.feedburner.com/HighScalability' retrieveFullText='true'/>
-	<outline title='NASA' type='rss' xmlUrl='https://www.nasa.gov/rss/dyn/breaking_news.rss' retrieveFullText='true'/>
-	<outline title='ORG' type='rss' xmlUrl='https://www.openrightsgroup.org/feed.rss' retrieveFullText='true'/>
-	<outline title='FSF blog' type='rss' xmlUrl='https://static.fsf.org/fsforg/rss/blogs.xml' retrieveFullText='true'/>
-	<outline title='Mozilla' type='rss' xmlUrl='https://blog.mozilla.org/feed/' retrieveFullText='true'/>
-	<outline title='Reporters Without Borders' type='rss' xmlUrl='https://rsf.org/en/rss.xml' retrieveFullText='true'/>
-	<outline title='Wikipedia News' type='rss' xmlUrl='https://en.wikinews.org/w/index.php?title=Special:NewsFeed&amp;feed=atom&amp;categories=Published&amp;notcategories=No%20publish%7CArchived%7CAutoArchived%7Cdisputed&amp;namespace=0&amp;count=30&amp;hourcount=124&amp;ordermethod=categoryadd&amp;stablepages=only' retrieveFullText='true'/>
-	<outline title='Physics World' type='rss' xmlUrl='https://iopscience.iop.org/journal/rss/1367-2630' retrieveFullText='true'/>
-	<outline title='Team liquid ' type='rss' xmlUrl='https://tl.net/rss/news.xml' retrieveFullText='true'/>
-	<outline title='Pirate Party' type='rss' xmlUrl='https://www.pirateparty.org.uk/feed.xml' retrieveFullText='true'/>
-	<outline title='Reddit Netsec' type='rss' xmlUrl='https://www.reddit.com/r/netsec/.rss' retrieveFullText='true'/>
-	<outline title='EFF' type='rss' xmlUrl='https://www.eff.org/rss/updates.xml' retrieveFullText='true'/>
-	<outline title='Aljazeera' type='rss' xmlUrl='http://america.aljazeera.com/content/ajam/articles.rss' retrieveFullText='true'/>
-	<outline title='Nature' type='rss' xmlUrl='http://feeds.nature.com/nature/rss/current' retrieveFullText='true'/>
-	<outline title='Cute Dog Blog' type='rss' xmlUrl='http://itoc.cfw.me/rss/' retrieveFullText='true'/>
-	<outline title='Guardian Project' type='rss' xmlUrl='https://guardianproject.info/blog/index.xml' retrieveFullText='true'/>
-	<outline title='538' type='rss' xmlUrl='https://fivethirtyeight.com/all/feed' retrieveFullText='true'/>
-	<outline title='maths u programming' type='rss' xmlUrl='https://j2kun.svbtle.com/feed' retrieveFullText='true'/>
-	<outline title='/etc/hosts file' type='rss' xmlUrl='https://someonewhocares.org/hosts/rss.xml' retrieveFullText='true'/>
-	<outline title='morning brew' type='rss' xmlUrl='https://feeds.feedburner.com/ReflectivePerspective' retrieveFullText='true'/>
-	<outline title='Level1techs' type='rss' xmlUrl='https://www.youtube.com/feeds/videos.xml?channel_id=UC4w1YQAJMWOz4qtxinq55LQ' retrieveFullText='true'/>
-	<outline title='Linux Journal' type='rss' xmlUrl='https://feeds.feedburner.com/linuxjournalcom' retrieveFullText='true'/>
-	<outline title='edri' type='rss' xmlUrl='https://edri.org/feed/' retrieveFullText='true'/>
-	<outline title='uncle bob' type='rss' xmlUrl='https://blog.cleancoder.com/atom.xml' retrieveFullText='true'/>
-	<outline title='funtext' type='rss' xmlUrl='https://davidyat.es/rss' retrieveFullText='true'/>
-	<outline title='SANS' type='rss' xmlUrl='https://ics.sans.org/blog/feed' retrieveFullText='true'/>
-	<outline title='dwarf fortress' type='rss' xmlUrl='https://www.bay12games.com/dwarves/dev_now.rss' retrieveFullText='true'/>
-	<outline title='The Tech' type='rss' xmlUrl='https://thetech.com/feed' retrieveFullText='true'/>
-	<outline title='Nasa pictue of the day' type='rss' xmlUrl='https://apod.nasa.gov/apod.rss' retrieveFullText='true'/>
-	<outline title='tympanus' type='rss' xmlUrl='https://feeds2.feedburner.com/tympanus' retrieveFullText='true'/>
-	<outline title='DistroWatch.com: News' type='rss' xmlUrl='https://distrowatch.com/news/dw.xml' retrieveFullText='true'/>
-	<outline title='Tor News' type='rss' xmlUrl='https://newsletter.torproject.org/rss/' retrieveFullText='true'/>
-	<outline title='jvns' type='rss' xmlUrl='https://jvns.ca/atom.xml' retrieveFullText='true'/>
-	<outline title='offsensive-security' type='rss' xmlUrl='https://www.offensive-security.com/feed' retrieveFullText='true'/>
-	<outline title='Transparency' type='rss' xmlUrl='https://www.transparency.org/feed/nwsftr' retrieveFullText='true'/>
-	<outline title='lambda the ultimate' type='rss' xmlUrl='http://lambda-the-ultimate.org/rss.xml' retrieveFullText='true'/>
-	<outline title='krebs' type='rss' xmlUrl='https://krebsonsecurity.com/feed/' retrieveFullText='true'/>
-	<outline title='Jess' type='rss' xmlUrl='https://blog.jessfraz.com/index.xml' retrieveFullText='true'/>
-	<outline title='ReclaimNet' type='rss' xmlUrl='https://reclaimthenet.org/feed' retrieveFullText='true'/>
-	<outline title='Dustri' type='rss' xmlUrl='https://dustri.org/b/rss.xml' retrieveFullText='true'/>
-	<outline title='Monitor' type='rss' xmlUrl='https://rss.csmonitor.com/feeds/world' retrieveFullText='true'/>
-	<outline title='Reuters' type='rss' xmlUrl='https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com&amp;ceid=US:en&amp;hl=en-US&amp;gl=US' retrieveFullText='true'/>
-</body>
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <body>
+    <outline title="Hacker News" text="Hacker News" type="rss" xmlUrl="https://news.ycombinator.com/rss"/>
+    <outline title="lobste" text="lobste" type="rss" xmlUrl="https://lobste.rs/rss"/>
+    <outline title="Beta news" text="Beta news" type="rss" xmlUrl="https://feeds.feedburner.com/bn"/>
+    <outline title="Torrent Freak " text="Torrent Freak " type="rss" xmlUrl="https://feeds.feedburner.com/Torrentfreak"/>
+    <outline title="After Dawn" text="After Dawn" type="rss" xmlUrl="http://feeds.afterdawn.com/afterdawn"/>
+    <outline title="High Scalability" text="High Scalability" type="rss" xmlUrl="https://feeds.feedburner.com/HighScalability"/>
+    <outline title="NASA" text="NASA" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss"/>
+    <outline title="ORG" text="ORG" type="rss" xmlUrl="https://www.openrightsgroup.org/rss.xml"/>
+    <outline title="FSF blog" text="FSF blog" type="rss" xmlUrl="https://static.fsf.org/fsforg/rss/blogs.xml"/>
+    <outline title="Mozilla" text="Mozilla" type="rss" xmlUrl="https://blog.mozilla.org/feed/"/>
+    <outline title="Reporters Without Borders" text="Reporters Without Borders" type="rss" xmlUrl="https://rsf.org/en/rss.xml"/>
+    <outline title="Wikipedia News" text="Wikipedia News" type="rss" xmlUrl="https://en.wikinews.org/w/index.php?title=Special:NewsFeed&amp;feed=atom"/>
+    <outline title="Team liquid " text="Team liquid " type="rss" xmlUrl="https://tl.net/rss/news.xml"/>
+    <outline title="Pirate Party" text="Pirate Party" type="rss" xmlUrl="https://www.pirateparty.org.uk/feed.xml"/>
+    <outline title="EFF" text="EFF" type="rss" xmlUrl="https://www.eff.org/rss/updates.xml"/>
+    <outline title="Aljazeera" text="Aljazeera" type="rss" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml"/>
+    <outline title="Nature" text="Nature" type="rss" xmlUrl="http://feeds.nature.com/nature/rss/current"/>
+    <outline title="Guardian Project" text="Guardian Project" type="rss" xmlUrl="https://guardianproject.info/blog/index.xml"/>
+    <outline title="538" text="538" type="rss" xmlUrl="https://fivethirtyeight.com/all/feed"/>
+    <outline title="maths u programming" text="maths u programming" type="rss" xmlUrl="https://j2kun.svbtle.com/feed"/>
+    <outline title="/etc/hosts file" text="/etc/hosts file" type="rss" xmlUrl="https://someonewhocares.org/hosts/rss.xml"/>
+    <outline title="morning brew" text="morning brew" type="rss" xmlUrl="https://feeds.feedburner.com/ReflectivePerspective"/>
+    <outline title="Level1techs" text="Level1techs" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC4w1YQAJMWOz4qtxinq55LQ"/>
+    <outline title="Linux Journal" text="Linux Journal" type="rss" xmlUrl="https://feeds.feedburner.com/linuxjournalcom"/>
+    <outline title="edri" text="edri" type="rss" xmlUrl="https://edri.org/feed/"/>
+    <outline title="uncle bob" text="uncle bob" type="rss" xmlUrl="http://blog.cleancoder.com/atom.xml"/>
+    <outline title="funtext" text="funtext" type="rss" xmlUrl="https://davidyat.es/rss"/>
+    <outline title="SANS" text="SANS" type="rss" xmlUrl="https://www.sans.org/blog/feed.xml"/>
+    <outline title="dwarf fortress" text="dwarf fortress" type="rss" xmlUrl="https://www.bay12games.com/dwarves/dev_now.rss"/>
+    <outline title="The Tech" text="The Tech" type="rss" xmlUrl="https://thetech.com/feed"/>
+    <outline title="Nasa pictue of the day" text="Nasa pictue of the day" type="rss" xmlUrl="https://apod.nasa.gov/apod.rss"/>
+    <outline title="tympanus" text="tympanus" type="rss" xmlUrl="https://feeds2.feedburner.com/tympanus"/>
+    <outline title="DistroWatch.com: News" text="DistroWatch.com: News" type="rss" xmlUrl="https://distrowatch.com/news/dw.xml"/>
+    <outline title="Tor News" text="Tor News" type="rss" xmlUrl="https://blog.torproject.org/rss.xml"/>
+    <outline title="jvns" text="jvns" type="rss" xmlUrl="http://jvns.ca/atom.xml"/>
+    <outline title="offsensive-security" text="offsensive-security" type="rss" xmlUrl="https://www.offensive-security.com/feed/"/>
+    <outline title="Transparency" text="Transparency" type="rss" xmlUrl="https://news.cision.com/transparency-international/ListItems?format=rss"/>
+    <outline title="lambda the ultimate" text="lambda the ultimate" type="rss" xmlUrl="http://lambda-the-ultimate.org/rss.xml"/>
+    <outline title="krebs" text="krebs" type="rss" xmlUrl="https://krebsonsecurity.com/feed/"/>
+    <outline title="Jess" text="Jess" type="rss" xmlUrl="https://blog.jessfraz.com/index.xml"/>
+    <outline title="ReclaimNet" text="ReclaimNet" type="rss" xmlUrl="https://reclaimthenet.org/feed/"/>
+    <outline title="Dustri" text="Dustri" type="rss" xmlUrl="https://dustri.org/b/rss.xml"/>
+    <outline title="Monitor" text="Monitor" type="rss" xmlUrl="https://rss.csmonitor.com/feeds/world"/>
+    <outline title="Reuters" text="Reuters" type="rss" xmlUrl="https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com&amp;ceid=US:en&amp;hl=en-US&amp;gl=US"/>
+    <outline title="Physics World" text="Physics World" type="rss" xmlUrl="https://physicsworld.com/feed/"/>
+  </body>
 </opml>
