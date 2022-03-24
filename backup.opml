@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <opml version="2.0">
+  <head>
+    <dateCreated>Thu, 24 Mar 2022 09:08:41 GMT</dateCreated>
+    <docs />
+  </head>
   <body>
     <outline type="rss" title="Hacker News" xmlUrl="https://news.ycombinator.com/rss" />
     <outline type="rss" title="lobste" xmlUrl="https://lobste.rs/rss" />
     <outline type="rss" title="Torrent Freak " xmlUrl="https://feeds.feedburner.com/Torrentfreak" />
     <outline type="rss" title="After Dawn" xmlUrl="http://feeds.afterdawn.com/afterdawn" />
-    <outline type="rss" title="High Scalability" xmlUrl="https://feeds.feedburner.com/HighScalability" />
     <outline type="rss" title="NASA" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" />
     <outline type="rss" title="ORG" xmlUrl="https://www.openrightsgroup.org/rss.xml" />
     <outline type="rss" title="FSF blog" xmlUrl="https://static.fsf.org/fsforg/rss/blogs.xml" />
     <outline type="rss" title="Mozilla" xmlUrl="https://blog.mozilla.org/feed/" />
     <outline type="rss" title="Reporters Without Borders" xmlUrl="https://rsf.org/en/rss.xml" />
     <outline type="rss" title="Wikipedia News" xmlUrl="https://en.wikinews.org/w/index.php?title=Special:NewsFeed&amp;feed=atom&amp;categories=Published" />
-    <outline type="rss" title="Team liquid " xmlUrl="https://tl.net/rss/news.xml" />
     <outline type="rss" title="EFF" xmlUrl="https://www.eff.org/rss/updates.xml" />
     <outline type="rss" title="Nature" xmlUrl="http://feeds.nature.com/nature/rss/current" />
     <outline type="rss" title="Guardian Project" xmlUrl="https://guardianproject.info/blog/index.xml" />
@@ -32,17 +34,23 @@
     <outline type="rss" title="jvns" xmlUrl="http://jvns.ca/atom.xml" />
     <outline type="rss" title="offsensive-security" xmlUrl="https://www.offensive-security.com/feed/" />
     <outline type="rss" title="Transparency" xmlUrl="https://news.cision.com/transparency-international/ListItems?format=rss" />
-    <outline type="rss" title="lambda the ultimate" xmlUrl="http://lambda-the-ultimate.org/rss.xml" />
     <outline type="rss" title="krebs" xmlUrl="https://krebsonsecurity.com/feed/" />
-    <outline type="rss" title="Jess" xmlUrl="https://blog.jessfraz.com/index.xml" />
     <outline type="rss" title="ReclaimNet" xmlUrl="https://reclaimthenet.org/feed/" />
     <outline type="rss" title="Dustri" xmlUrl="https://dustri.org/b/rss.xml" />
     <outline type="rss" title="Monitor" xmlUrl="https://rss.csmonitor.com/feeds/world" />
     <outline type="rss" title="Physics World" xmlUrl="https://physicsworld.com/feed/" />
-    <outline type="rss" title="Linux Journal - The Original Magazine of the Linux Community" xmlUrl="https://www.linuxjournal.com/node/feed" />
-    <outline type="rss" title="GamesIndustry.biz" xmlUrl="https://www.gamesindustry.biz/rss/gamesindustry_news_feed.rss" />
+    <outline type="rss" title="Linux Journal " xmlUrl="https://linuxjournal.com/node/feed" />
+    <outline type="rss" title="GamesIndustry.biz" xmlUrl="https://www.gamesindustry.biz/rss/gamesindustry_news_feed.rss" retrieveFullText="true" />
     <outline type="rss" title="Slower News" xmlUrl="https://www.slowernews.com/rss.xml" />
-    <outline type="rss" title="World News" xmlUrl="https://www.reddit.com/r/worldnews.rss" />
     <outline type="rss" title="OCCRP" xmlUrl="https://reportingproject.net/occrp/index.php/en?format=feed&amp;type=rss" />
+    <outline type="rss" title="American Civil Liberties Union" xmlUrl="http://www.aclu.org/blog/feed" />
+    <outline type="rss" title="CREW | Citizens for Responsibility and Ethics in Washington" xmlUrl="https://www.citizensforethics.org/feed" />
+    <outline type="rss" title="The Tutanota Blog" xmlUrl="https://tutanota.com/blog/feed.xml" />
+    <outline type="rss" title="Richard Stallman's Political Notes" xmlUrl="http://stallman.org/rss/rss.xml" />
+    <outline type="rss" title="The Intercept" xmlUrl="https://theintercept.com/feed/?lang=en" />
+    <outline type="rss" title="Common Dreams - Breaking News &amp; Views for the Progressive Community" xmlUrl="http://www.commondreams.org/rss.xml" />
+    <outline type="rss" title="It's FOSS" xmlUrl="https://itsfoss.com/feed/" />
+    <outline type="rss" title="Arch Linux: Recent news updates" xmlUrl="http://www.archlinux.org/feeds/news/" />
+    <outline type="rss" title="Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" />
   </body>
 </opml>
