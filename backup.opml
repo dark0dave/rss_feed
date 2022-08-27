@@ -10,10 +10,10 @@
     <outline title="After Dawn" text="After Dawn" type="rss" xmlUrl="http://feeds.afterdawn.com/afterdawn"/>
     <outline title="American Civil Liberties Union" text="American Civil Liberties Union" type="rss" xmlUrl="http://www.aclu.org/blog/feed"/>
     <outline title="Arch Linux" text="Arch Linux" type="rss" xmlUrl="http://www.archlinux.org/feeds/news/"/>
-    <outline title="Associated Press" text="Associated Press" type="rss" xmlUrl="https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com&hl=en-GB&gl=GB&ceid=GB:en"/>
-    <outline title="Bloomberg" text="Bloomberg" type="rss" xmlUrl="https://news.google.com/rss/search?q=when:24h+allinurl:bloomberg.com&hl=en-GB&gl=GB&ceid=GB:en"/>
-    <outline title="Common Dreams - Breaking News &amp; Views for the Progressive Community" text="Common Dreams - Breaking News &amp; Views for the Progressive Community" type="rss" xmlUrl="http://www.commondreams.org/rss.xml"/>
-    <outline title="CREW | Citizens for Responsibility and Ethics in Washington" text="CREW | Citizens for Responsibility and Ethics in Washington" type="rss" xmlUrl="https://www.citizensforethics.org/feed"/>
+    <outline title="Associated Press" text="Associated Press" type="rss" xmlUrl="https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB:en"/>
+    <outline title="Bloomberg" text="Bloomberg" type="rss" xmlUrl="https://news.google.com/rss/search?q=when:24h+allinurl:bloomberg.com&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB:en"/>
+    <outline title="Common Dreams" text="Breaking News Views for the Progressive Community" type="rss" xmlUrl="http://www.commondreams.org/rss.xml"/>
+    <outline title="CREW" text="Citizens for Responsibility and Ethics in Washington" type="rss" xmlUrl="https://www.citizensforethics.org/feed"/>
     <outline title="DistroWatch.com: News" text="DistroWatch.com: News" type="rss" xmlUrl="https://distrowatch.com/news/dw.xml"/>
     <outline title="Dustri" text="Dustri" type="rss" xmlUrl="https://dustri.org/b/rss.xml"/>
     <outline title="Dwarf Fortress" text="dwarf fortress" type="rss" xmlUrl="https://www.bay12games.com/dwarves/dev_now.rss"/>
@@ -40,7 +40,7 @@
     <outline title="Offsensive-security" text="offsensive-security" type="rss" xmlUrl="https://www.offensive-security.com/feed/"/>
     <outline title="Physics World" text="Physics World" type="rss" xmlUrl="https://physicsworld.com/feed/"/>
     <outline title="ReclaimNet" text="ReclaimNet" type="rss" xmlUrl="https://reclaimthenet.org/feed/"/>
-    <outline title="Reuters" text="Reuters" type="rss" xmlUrl="https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com&ceid=US:en&hl=en-US&gl=US"/>
+    <outline title="Reuters" text="Reuters" type="rss" xmlUrl="https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com&amp;ceid=US:en&amp;hl=en-US&amp;gl=US"/>
     <outline title="Richard Stallman Political Notes" text="Richard Stallman Political Notes" type="rss" xmlUrl="http://stallman.org/rss/rss.xml"/>
     <outline title="SANS" text="SANS" type="rss" xmlUrl="https://www.sans.org/blog/feed.xml"/>
     <outline title="Slashdot" text="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot"/>
