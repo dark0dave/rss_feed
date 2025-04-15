@@ -1,8 +1,7 @@
-image: python:3.8.1-slim-buster
+image: python:3.13.1-slim-buster
 
 test:
   script:
-   - pip install poetry
-   - poetry install
-   - poetry run mypy test.py --ignore-missing-imports
-   - poetry run python test.py
+   - pip install uv
+   - uv install
+   - uv run python test.py

@@ -1,58 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<opml version="1.1">
-  <head>
-    <title>
-      Feeder
-    </title>
-  </head>
+<opml version="1.1" xmlns:feeder="https://nononsenseapps.com/feeder">
   <body>
-    <outline title="/etc/hosts file" text="/etc/hosts file" type="rss" xmlUrl="https://someonewhocares.org/hosts/rss.xml"/>
-    <outline title="After Dawn" text="After Dawn" type="rss" xmlUrl="http://feeds.afterdawn.com/afterdawn"/>
-    <outline title="American Civil Liberties Union" text="American Civil Liberties Union" type="rss" xmlUrl="http://www.aclu.org/blog/feed"/>
-    <outline title="Arch Linux" text="Arch Linux" type="rss" xmlUrl="http://www.archlinux.org/feeds/news/"/>
-    <outline title="Associated Press" text="Associated Press" type="rss" xmlUrl="https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB:en"/>
-    <outline title="Bloomberg" text="Bloomberg" type="rss" xmlUrl="https://news.google.com/rss/search?q=when:24h+allinurl:bloomberg.com&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB:en"/>
-    <outline title="Common Dreams" text="Breaking News Views for the Progressive Community" type="rss" xmlUrl="http://www.commondreams.org/rss.xml"/>
-    <outline title="CREW" text="Citizens for Responsibility and Ethics in Washington" type="rss" xmlUrl="https://www.citizensforethics.org/feed"/>
-    <outline title="DistroWatch.com: News" text="DistroWatch.com: News" type="rss" xmlUrl="https://distrowatch.com/news/dw.xml"/>
-    <outline title="Dustri" text="Dustri" type="rss" xmlUrl="https://dustri.org/b/rss.xml"/>
-    <outline title="Dwarf Fortress" text="dwarf fortress" type="rss" xmlUrl="https://www.bay12games.com/dwarves/dev_now.rss"/>
-    <outline title="Edri" text="edri" type="rss" xmlUrl="https://edri.org/feed/"/>
-    <outline title="EFF" text="EFF" type="rss" xmlUrl="https://www.eff.org/rss/updates.xml"/>
-    <outline title="FSF blog" text="FSF blog" type="rss" xmlUrl="https://static.fsf.org/fsforg/rss/blogs.xml"/>
-    <outline title="funtext" text="funtext" type="rss" xmlUrl="https://davidyat.es/rss"/>
-    <outline title="GamesIndustry.biz" text="GamesIndustry.biz" type="rss" xmlUrl="https://www.gamesindustry.biz/rss/gamesindustry_news_feed.rss"/>
-    <outline title="Guardian Project" text="Guardian Project" type="rss" xmlUrl="https://guardianproject.info/blog/index.xml"/>
-    <outline title="Hacker News" text="Hacker News" type="rss" xmlUrl="https://news.ycombinator.com/rss"/>
-    <outline title="jvns" text="jvns" type="rss" xmlUrl="http://jvns.ca/atom.xml"/>
-    <outline title="krebs" text="krebs" type="rss" xmlUrl="https://krebsonsecurity.com/feed/"/>
-    <outline title="Late Night Linux" text="Late Night Linux" type="rss" xmlUrl="http://latenightlinux.com/mp3"/>
-    <outline title="Linux Journal" text="Linux Journal" type="rss" xmlUrl="https://feeds.feedburner.com/linuxjournalcom"/>
-    <outline title="Lobste" text="lobste" type="rss" xmlUrl="https://lobste.rs/rss"/>
-    <outline title="matrix.org" text="matrix.org" type="rss" xmlUrl="https://matrix.org/blog/feed"/>
-    <outline title="Monitor" text="Monitor" type="rss" xmlUrl="https://rss.csmonitor.com/feeds/world"/>
-    <outline title="Morning Brew" text="morning brew" type="rss" xmlUrl="https://feeds.feedburner.com/ReflectivePerspective"/>
-    <outline title="Mozilla" text="Mozilla" type="rss" xmlUrl="https://blog.mozilla.org/feed/"/>
-    <outline title="Nasa pictue of the day" text="Nasa pictue of the day" type="rss" xmlUrl="https://apod.nasa.gov/apod.rss"/>
-    <outline title="NASA" text="NASA" type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss"/>
-    <outline title="Nature" text="Nature" type="rss" xmlUrl="http://feeds.nature.com/nature/rss/current"/>
-    <outline title="OCCRP" text="OCCRP" type="rss" xmlUrl="https://reportingproject.net/occrp/index.php/en?format=feed&amp;type=rss"/>
-    <outline title="Offsensive-security" text="offsensive-security" type="rss" xmlUrl="https://www.offensive-security.com/feed/"/>
-    <outline title="Physics World" text="Physics World" type="rss" xmlUrl="https://physicsworld.com/feed/"/>
-    <outline title="ReclaimNet" text="ReclaimNet" type="rss" xmlUrl="https://reclaimthenet.org/feed/"/>
-    <outline title="Reuters" text="Reuters" type="rss" xmlUrl="https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com&amp;ceid=US:en&amp;hl=en-US&amp;gl=US"/>
-    <outline title="Richard Stallman Political Notes" text="Richard Stallman Political Notes" type="rss" xmlUrl="http://stallman.org/rss/rss.xml"/>
-    <outline title="SANS" text="SANS" type="rss" xmlUrl="https://www.sans.org/blog/feed.xml"/>
-    <outline title="Slashdot" text="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot"/>
-    <outline title="Slower News" text="Slower News" type="rss" xmlUrl="https://www.slowernews.com/rss.xml"/>
-    <outline title="The Intercept" text="The Intercept" type="rss" xmlUrl="https://theintercept.com/feed/?lang=en"/>
-    <outline title="The Tech" text="The Tech" type="rss" xmlUrl="https://thetech.com/feed"/>
-    <outline title="The Tutanota Blog" text="The Tutanota Blog" type="rss" xmlUrl="https://tutanota.com/blog/feed.xml"/>
-    <outline title="Tor News" text="Tor News" type="rss" xmlUrl="https://blog.torproject.org/rss.xml"/>
-    <outline title="Torrent Freak " text="Torrent Freak " type="rss" xmlUrl="https://feeds.feedburner.com/Torrentfreak"/>
-    <outline title="Transparency" text="Transparency" type="rss" xmlUrl="https://news.cision.com/transparency-international/ListItems?format=rss"/>
-    <outline title="Tympanus" text="tympanus" type="rss" xmlUrl="https://feeds2.feedburner.com/tympanus"/>
-    <outline title="Uncle Bob" text="uncle bob" type="rss" xmlUrl="http://blog.cleancoder.com/atom.xml"/>
-    <outline title="Wikipedia News" text="Wikipedia News" type="rss" xmlUrl="https://en.wikinews.org/w/index.php?title=Special:NewsFeed&amp;feed=atom&amp;categories=Published"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://archlinux.org/static/logos/apple-touch-icon-57x57.0cd0ab3349e2.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Arch Linux" text="Arch Linux" type="rss" xmlUrl="http://www.archlinux.org/feeds/news/"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://dustri.org/static/favicon.jpg" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Dustri" text="Dustri" type="rss" xmlUrl="https://dustri.org/b/rss.xml"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://hackaday.com/wp-content/themes/hackaday-2/img/hackaday-logo_1024x1024.png?v=3" feeder:fullTextByDefault="true" feeder:openArticlesWith="" feeder:alternateId="true" title="Hackaday" text="Hackaday" type="rss" xmlUrl="https://hackaday.com/blog/feed/"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://news.cision.com/Content/img/news-logo.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Transparency" text="Transparency" type="rss" xmlUrl="https://news.cision.com/transparency-international/ListItems?format=rss"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/themes/codropstheme03/favicons/apple-touch-icon.png?x13270&amp;v=2" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Tympanus" text="Tympanus" type="rss" xmlUrl="https://feeds2.feedburner.com/tympanus"/>
+    <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="EFF" text="EFF" type="rss" xmlUrl="https://www.eff.org/rss/updates.xml"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://distrowatch.com/favicon.ico" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="DistroWatch.com: News" text="DistroWatch.com: News" type="rss" xmlUrl="https://distrowatch.com/news/dw.xml"/>
+    <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Dwarf Fortress" text="Dwarf Fortress" type="rss" xmlUrl="https://www.bay12games.com/dwarves/dev_now.rss"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://edri.org/wp-content/uploads/2023/01/favicon1-20y-32x32.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Edri" text="Edri" type="rss" xmlUrl="https://edri.org/feed/"/>
+    <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="FSF blog" text="FSF blog" type="rss" xmlUrl="https://static.fsf.org/fsforg/rss/blogs.xml"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://news.ycombinator.com/favicon.ico" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Hacker News" text="Hacker News" type="rss" xmlUrl="https://news.ycombinator.com/rss"/>
+    <outline feeder:notify="false" feeder:imageUrl="http://jvns.ca/favicon.ico" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="jvns" text="jvns" type="rss" xmlUrl="http://jvns.ca/atom.xml"/>
+    <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="krebs" text="krebs" type="rss" xmlUrl="https://krebsonsecurity.com/feed/"/>
+    <outline feeder:notify="false" feeder:imageUrl="http://latenightlinux.com/wp-content/uploads/latenightlinux.jpg" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Late Night Linux" text="Late Night Linux" type="rss" xmlUrl="http://latenightlinux.com/mp3"/>
+    <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Linux Journal" text="Linux Journal" type="rss" xmlUrl="https://feeds.feedburner.com/linuxjournalcom"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://lobste.rs/apple-touch-icon.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Lobste" text="Lobste" type="rss" xmlUrl="https://lobste.rs/rss"/>
+    <outline feeder:notify="false" feeder:imageUrl="http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/apple-touch-icon.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="NASA" text="NASA" type="rss" xmlUrl="https://www.nasa.gov/news-release/feed/"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://www.nature.com/uploads/product/nature/rss.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Nature" text="Nature" type="rss" xmlUrl="http://feeds.nature.com/nature/rss/current"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://manage.offsec.com/app/uploads/2023/03/cropped-offsec-brand-symbol-32x32.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Offsensive-security" text="Offsensive-security" type="rss" xmlUrl="https://www.offensive-security.com/feed/"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://physicsworld.com/wp-content/uploads/2021/01/PW-podcast-logo-STORIES-resized.jpg" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Physics World" text="Physics World" type="rss" xmlUrl="https://physicsworld.com/feed/"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://i0.wp.com/pluralistic.net/wp-content/uploads/2020/02/cropped-guillotine-French-Revolution.jpg?fit=32%2C32&amp;ssl=1" feeder:fullTextByDefault="true" feeder:openArticlesWith="2" feeder:alternateId="true" title="Pluralistic: Daily links from Cory Doctorow" text="Pluralistic: Daily links from Cory Doctorow" type="rss" xmlUrl="https://pluralistic.net/feed/"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://someonewhocares.org/favicon.ico" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="/etc/hosts file" text="/etc/hosts file" type="rss" xmlUrl="https://someonewhocares.org/hosts/rss.xml"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://reclaimthenet.org/wp-content/uploads/fbrfg/apple-touch-icon.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="ReclaimNet" text="ReclaimNet" type="rss" xmlUrl="https://reclaimthenet.org/feed/"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://images.contentstack.io/v3/assets/blt36c2e63521272fdc/bltb065db290a92f932/60a7f27dc8faf774ab45ffd9/cropped-SANS-Blue-Square-180x180.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="SANS" text="SANS" type="rss" xmlUrl="https://www.sans.org/blog/feed.xml"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://www.slowernews.com/assets/favicon.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Slower News" text="Slower News" type="rss" xmlUrl="https://www.slowernews.com/rss.xml"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://tldr.tech/tldrsquare.png" feeder:fullTextByDefault="true" feeder:openArticlesWith="" feeder:alternateId="true" title="TLDR RSS Feed" text="TLDR RSS Feed" type="rss" xmlUrl="https://tldr.tech/api/rss/tech"/>
+    <outline feeder:notify="false" feeder:imageUrl="http://blog.cleancoder.com/assets/clean_code_72_color.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Uncle Bob" text="Uncle Bob" type="rss" xmlUrl="http://blog.cleancoder.com/atom.xml"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://thetech.com/assets/favicon-f42b9ca1fbe3eeec567ebfc42a5d0e4afda2bde18d625234d6ea6ffa694b35d9.ico" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="The Tech" text="The Tech" type="rss" xmlUrl="https://thetech.com/feed"/>
+    <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Morning Brew" text="Morning Brew" type="rss" xmlUrl="https://feeds.feedburner.com/ReflectivePerspective"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://blog.mozilla.org/wp-content/themes/foxtail/assets/images/favicons/apple-touch-icon.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Mozilla" text="Mozilla" type="rss" xmlUrl="https://blog.mozilla.org/feed/"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://proton.me/blog/favicons/apple-touch-icon.png" feeder:fullTextByDefault="true" feeder:openArticlesWith="" feeder:alternateId="false" title="The Proton Blog" text="The Proton Blog" type="rss" xmlUrl="https://proton.me/blog/feed"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://blog.torproject.org/static/images/favicon/favicon.ico" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Tor News" text="Tor News" type="rss" xmlUrl="https://blog.torproject.org/rss.xml"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://torrentfreak.com/apple-touch-icon.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Torrent Freak " text="Torrent Freak " type="rss" xmlUrl="https://feeds.feedburner.com/Torrentfreak"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://davidyat.es/favicon.ico" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="funtext" text="funtext" type="rss" xmlUrl="https://davidyat.es/rss"/>
+    <outline title="Github" text="Github">
+    <outline feeder:notify="false" feeder:imageUrl="http://mshibanami.github.io/static/img/favicon-196.png" feeder:fullTextByDefault="true" feeder:openArticlesWith="" feeder:alternateId="true" title="Github Go Daily Trending" text="Github Go Daily Trending" type="rss" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/go.xml"/>
+    <outline feeder:notify="false" feeder:imageUrl="http://mshibanami.github.io/static/img/favicon-196.png" feeder:fullTextByDefault="true" feeder:openArticlesWith="" feeder:alternateId="false" title="GitHub Rust Daily Trending" text="GitHub Rust Daily Trending" type="rss" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/rust.xml"/>
+    <outline feeder:notify="false" feeder:imageUrl="https://github.githubassets.com/favicons/favicon.svg" feeder:fullTextByDefault="true" feeder:openArticlesWith="0" feeder:alternateId="false" title="dark0dave Github" text="dark0dave Github" type="rss" xmlUrl="https://github.com/dark0dave.private.atom?token=AMTEPY2NQE4UBBTCRPLRGP6B6X2DE"/>
+  </outline>
+  <outline title="News" text="News">
+  <outline feeder:notify="false" feeder:imageUrl="https://buttondown.email/static/images/icons/icon-square@144.png" feeder:fullTextByDefault="true" feeder:openArticlesWith="" feeder:alternateId="false" title="AI News" text="AI News" type="rss" xmlUrl="https://buttondown.email/ainews/rss"/>
+  <outline feeder:notify="false" feeder:imageUrl="https://apod.nasa.gov/favicon.ico" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Nasa pictue of the day" text="Nasa pictue of the day" type="rss" xmlUrl="https://apod.nasa.gov/apod.rss"/>
+  <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="American Civil Liberties Union" text="American Civil Liberties Union" type="rss" xmlUrl="http://www.aclu.org/blog/feed"/>
+  <outline feeder:notify="false" feeder:imageUrl="https://apnews.com/apple-touch-icon.png" feeder:fullTextByDefault="true" feeder:openArticlesWith="" feeder:alternateId="false" title="Associated Press News: Breaking News, Latest Headlines and Videos" text="Associated Press News: Breaking News, Latest Headlines and Videos" type="rss" xmlUrl="https://www.apnews.com/index.rss"/>
+  <outline feeder:notify="false" feeder:imageUrl="https://www.citizensforethics.org/wp-content/uploads/2020/09/cropped-CREW-favicon-150x150.png" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="CREW | Citizens for Responsibility and Ethics in Washington" text="CREW | Citizens for Responsibility and Ethics in Washington" type="rss" xmlUrl="https://www.citizensforethics.org/feed"/>
+  <outline feeder:notify="false" feeder:imageUrl="https://www.commondreams.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8zMjEwMDM4OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc0OTE0ODI1N30.nWE-dO3LpGCfrP6HKKrgMGYA-9xT8aazabGiQTfcsrM/image.png?width=210" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="Common Dreams - Breaking News &amp; Views for the Progressive Community" text="Common Dreams - Breaking News &amp; Views for the Progressive Community" type="rss" xmlUrl="http://www.commondreams.org/rss.xml"/>
+  <outline feeder:notify="false" feeder:imageUrl="https://en.wikinews.org/static/apple-touch/wikinews.png" feeder:fullTextByDefault="true" feeder:openArticlesWith="" feeder:alternateId="false" title="Wikipedia News" text="Wikipedia News" type="rss" xmlUrl="https://en.wikinews.org/w/index.php?title=Special:NewsFeed&amp;feed=atom&amp;categories=Published"/>
+  <outline feeder:notify="false" feeder:fullTextByDefault="false" feeder:openArticlesWith="" feeder:alternateId="false" title="GamesIndustry.biz" text="GamesIndustry.biz" type="rss" xmlUrl="https://www.gamesindustry.biz/rss/gamesindustry_news_feed.rss"/>
+  <outline feeder:notify="false" feeder:imageUrl="https://theintercept.com/wp-content/themes/intercept/assets/icons/apple-touch-icon-57x57.png" feeder:fullTextByDefault="true" feeder:openArticlesWith="" feeder:alternateId="false" title="The Intercept" text="The Intercept" type="rss" xmlUrl="https://theintercept.com/feed/?lang=en"/>
+  </outline>
   </body>
 </opml>

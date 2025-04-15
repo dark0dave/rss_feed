@@ -1,7 +1,6 @@
 set -a
 
-###
-# Sampe .envrc file containing all environment variables
-###
+use nix
+mkdir -p "${TMPDIR}"
 git config --local user.email <your email>
 git config --local user.name <your username>
