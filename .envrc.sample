@@ -1,6 +1,6 @@
 set -a
 
-use nix
-mkdir -p "${TMPDIR}"
+use flake
+hk install
 git config --local user.email <your email>
 git config --local user.name <your username>

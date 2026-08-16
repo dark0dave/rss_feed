@@ -1,0 +1,41 @@
+amends "package://github.com/jdx/hk/releases/download/v1.55.0/hk@1.55.0#/Config.pkl"
+import "package://github.com/jdx/hk/releases/download/v1.55.0/hk@1.55.0#/Builtins.pkl"
+
+local message = new Mapping<String, Step> {
+  ["check-conventional-commit"] = Builtins.check_conventional_commit
+}
+
+local builtin_hooks = new Mapping<String, Step> {
+  ["check-case-conflict"] = Builtins.check_case_conflict
+  ["check-merge-conflict"] = Builtins.check_merge_conflict
+  ["end-of-file-fixer"] = Builtins.newlines
+  ["hk-test"] = Builtins.hk_test
+  ["nil"] = Builtins.nil
+  ["nix-fmt"] = Builtins.nix_fmt
+  ["trailing-whitespace"] = Builtins.trailing_whitespace
+  ["yamlfmt"] = Builtins.yamlfmt
+}
+
+local local_hooks = new Mapping<String, Step> {
+  ["codespell"] {
+    glob = List("subrace/lang/en_us/*.tra", "*.tp2", "*.lua", "*.d", "readme.md")
+    exclude = List("hk.pkl",)
+    check = "codespell -c {{files}} --config .codespellrc"
+  }
+}
+
+hooks {
+  ["commit-msg"] {
+    steps {
+      ...message
+    }
+  }
+  ["pre-commit"] {
+    fix = true
+    stash = "git"
+    steps {
+      ...builtin_hooks
+      ...local_hooks
+    }
+  }
+}
