@@ -31,6 +31,8 @@
                 hk
                 nil
                 nixfmt
+                rsstail
+                xidel
                 yamlfmt
               ];
             };

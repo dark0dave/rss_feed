@@ -22,6 +22,12 @@ local local_hooks = new Mapping<String, Step> {
     exclude = List("hk.pkl",)
     check = "codespell -c {{files}} --config .codespellrc"
   }
+  ["duplicates"] {
+    check = " test -z $( xidel backup.opml -e '//outline/@xmlUrl' | sort | uniq -d)"
+  }
+  ["valid"] {
+    check = "xidel backup.opml -e '//outline/@xmlUrl' | xargs -P 25 -I {} curl -sLo /dev/null -w '%{url_effective}: %{errormsg}\n' --max-time 60 {}"
+  }
 }
 
 hooks {
